@@ -1,7 +1,7 @@
 # RELATORIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
 Data: 27/08/2025
-Empresa: Abstergo Indudtries
+Empresa: Abstergo Industries
 Responsável: Julia Felizardo Bittencurt
 
 ## INTRODUÇÃO
@@ -26,7 +26,7 @@ Etapa 3:
 - A distribuidora farmacêutica criará um orçamento mensal via AWS Budgets. Alertas serão configurados por e-mail ou SMS quando os gastos atingirem 80% e 100% do limite, permitindo que ajustes sejam feitos em tempo real nos recursos utilizados, como reduzir instâncias EC2 ou ajustar planos de armazenamento S3.
 
 ## Conclusão
-A implementação de ferramentas na sempresa Abstergo Indudtries tem como esperado a utilização de AWS de forma eficiente e econômica, evitando desperdícios e aumentando o retorno sobre o investimento.
+A implementação de ferramentas na sempresa Abstergo Industries tem como esperado a utilização de AWS de forma eficiente e econômica, evitando desperdícios e aumentando o retorno sobre o investimento.
 
 ## Anexos
 - https://docs.aws.amazon.com/cost-explorer/latest/userguide/what-is-cost-explorer.html 
@@ -35,3 +35,4 @@ A implementação de ferramentas na sempresa Abstergo Indudtries tem como espera
 
 Assinatura do Responsável pelo Projeto:
 Julia Felizardo Bittencourt
+
